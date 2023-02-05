@@ -1,17 +1,19 @@
-***What I have learned:***
+# What I have learned
 
-the function of Git and GitHub
+**the function of Git and GitHub**
 
-the GitHub flow
+**the GitHub flow**
 
-Some Git command:
+**Some Git command:**
 
-git clone
+* git clone
 
-git add
+* git add
 
-git commit
+* git commit
 
-git push
+* git push
 
-git pull
+* git pull
+
+**Basic writing and formatting syntax of markdown**
